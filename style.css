@@ -185,7 +185,7 @@ body {
         transform: translate(-50%, -50%);
     }
     .letter-background {
-        background-color: #0D1219FF;
+        background-color: rgba(13,18,25,.85);
         width: 85%;
         height: 600px;
         margin-top: 400px;
@@ -251,7 +251,7 @@ body {
         transform: translate(-50%, -50%);
         color: var(--accentColor);
         border: solid var(--accentColor) 3px;
-        font-size: 0.75rem;
+        font-size: 0.7rem;
         text-align: left;
         display: flex;
         padding: 10px; /* 17px */
